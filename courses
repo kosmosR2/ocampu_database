@@ -1,0 +1,26 @@
+{ "CourseTimme" : [], "__v" : 0, "_id" : { "$oid" : "5514b039247c103e2a377ad0" }, "cname" : "Linux系统及应用", "random" : 587, "signup_times" : 5, "time_each" : [ { "times" : 5, "time" : { "$date" : 1431688931000 }, "_id" : { "$oid" : "5555d6e36f56b3ad7c6c3930" } } ] }
+{ "cname" : "大学物理", "random" : 650, "_id" : { "$oid" : "5514c4bd51fb530050239714" }, "CourseTimme" : [], "signup_times" : 1, "__v" : 0 }
+{ "CourseTimme" : [], "__v" : 0, "_id" : { "$oid" : "55156cacaf0a674d70141bce" }, "cname" : "PHP程序语言设计", "random" : 539, "signup_times" : 5, "time_each" : [ { "times" : 5, "time" : { "$date" : 1431784350000 }, "_id" : { "$oid" : "55574b9e94b4c0191a196389" } } ] }
+{ "CourseTimme" : [], "__v" : 0, "_id" : { "$oid" : "55156cc0af0a674d70141bcf" }, "cname" : "算法分析与设计", "random" : 901, "signup_times" : 6, "time_each" : [ { "times" : 4, "time" : { "$date" : 1431784481000 }, "_id" : { "$oid" : "55574c2194b4c0191a19638b" } }, { "times" : 5, "time" : { "$date" : 1432991213000 }, "_id" : { "$oid" : "5569b5ed3cd28d026673e1b5" } }, { "times" : 6, "time" : { "$date" : 1433584437000 }, "_id" : { "$oid" : "5572c3353cd28d026673e1d5" } } ] }
+{ "cname" : "php", "random" : 197, "_id" : { "$oid" : "551699e86dc702f708f927b4" }, "CourseTimme" : [], "signup_times" : 0, "__v" : 0 }
+{ "cname" : " PHP语言程序设计", "random" : 539, "_id" : { "$oid" : "55169ceed4e465c70a9f4352" }, "CourseTimme" : [], "signup_times" : 0, "__v" : 0 }
+{ "cname" : "PHP语言程序设计", "random" : 954, "_id" : { "$oid" : "5516ad3c96dfb0cc0db31696" }, "CourseTimme" : [], "signup_times" : 0, "__v" : 0 }
+{ "cname" : "PHP语言程序设计", "random" : 866, "_id" : { "$oid" : "5516ad67ffa594ee0d288e0c" }, "CourseTimme" : [], "signup_times" : 0, "__v" : 0 }
+{ "cname" : "PHP语言程序设计", "random" : 562, "_id" : { "$oid" : "5516ad6daab321ff0d50cdb4" }, "CourseTimme" : [], "signup_times" : 0, "__v" : 0 }
+{ "cname" : "PHP语言程序设计", "random" : 538, "_id" : { "$oid" : "5516ada60c040d210efd235e" }, "CourseTimme" : [], "signup_times" : 0, "__v" : 0 }
+{ "cname" : "PHP程序设计", "random" : 780, "_id" : { "$oid" : "5516b04a72a29dc61eeedfe5" }, "CourseTimme" : [], "signup_times" : 0, "__v" : 0 }
+{ "CourseTimme" : [], "__v" : 0, "_id" : { "$oid" : "55175db3270b754d43c46f62" }, "cname" : "iphone test", "random" : 185, "signup_times" : 2, "time_each" : [ { "times" : 2, "time" : { "$date" : 1431511215000 }, "_id" : { "$oid" : "555320af39963c7745aa300f" } } ] }
+{ "cname" : "数据库原理", "random" : 650, "_id" : { "$oid" : "551807205bd9294f2580345f" }, "CourseTimme" : [], "signup_times" : 3, "__v" : 0 }
+{ "cname" : "电子商务概论", "random" : 1119, "_id" : { "$oid" : "551a578b5bd9294f25803528" }, "CourseTimme" : [], "signup_times" : 1, "__v" : 0 }
+{ "cname" : "电子商务概论", "random" : 1173, "_id" : { "$oid" : "551a58685bd9294f25803529" }, "CourseTimme" : [], "signup_times" : 1, "__v" : 0 }
+{ "cname" : "民法", "random" : 772, "_id" : { "$oid" : "551b9c955bd9294f2580352a" }, "CourseTimme" : [], "signup_times" : 1, "__v" : 0 }
+{ "cname" : "主持与播音", "random" : 828, "_id" : { "$oid" : "551bccf85bd9294f2580352f" }, "CourseTimme" : [], "signup_times" : 2, "__v" : 0 }
+{ "cname" : "马克思主义基本原理", "random" : 112, "_id" : { "$oid" : "5535afc27795b975583f848b" }, "CourseTimme" : [], "signup_times" : 1, "__v" : 0 }
+{ "CourseTimme" : [], "__v" : 0, "_id" : { "$oid" : "5539a188fd49d35163710ee7" }, "cname" : "民法14", "random" : 395, "signup_times" : 3, "time_each" : [ { "times" : 1, "time" : { "$date" : 1430186518000 }, "_id" : { "$oid" : "553eea165e997d334ee6004e" } }, { "times" : 2, "time" : { "$date" : 1432006932000 }, "_id" : { "$oid" : "555ab1149f00b77e7582602e" } }, { "times" : 2, "time" : { "$date" : 1432006932000 }, "_id" : { "$oid" : "555ab1149f00b77e7582602f" } } ] }
+{ "CourseTimme" : [], "__v" : 0, "_id" : { "$oid" : "5539a862fd49d35163710ee8" }, "cname" : "合同法", "random" : 170, "signup_times" : 2, "time_each" : [ { "times" : 1, "time" : { "$date" : 1430185129000 }, "_id" : { "$oid" : "553ee4a95e997d334ee5ffdd" } }, { "times" : 2, "time" : { "$date" : 1431481552000 }, "_id" : { "$oid" : "5552acd039963c7745aa2fe7" } } ] }
+{ "cname" : "php", "random" : 704, "_id" : { "$oid" : "553b98ec56890a6701360a1e" }, "CourseTimme" : [], "signup_times" : 0, "__v" : 0 }
+{ "cname" : "数据结构", "random" : 431, "_id" : { "$oid" : "55470cf78924020208bea5e7" }, "CourseTimme" : [], "time_each" : [], "signup_times" : 0, "__v" : 0 }
+{ "cname" : "JavaScript", "random" : 807, "_id" : { "$oid" : "554725638924020208bea5e8" }, "CourseTimme" : [], "time_each" : [], "signup_times" : 0, "__v" : 0 }
+{ "CourseTimme" : [], "__v" : 0, "_id" : { "$oid" : "55480fff39963c7745aa2ed7" }, "cname" : "java", "random" : 16, "signup_times" : 1, "time_each" : [ { "times" : 1, "time" : { "$date" : 1431427546000 }, "_id" : { "$oid" : "5551d9da39963c7745aa2f87" } } ] }
+{ "cname" : "java", "random" : 37, "_id" : { "$oid" : "5551da4539963c7745aa2f88" }, "CourseTimme" : [], "time_each" : [], "signup_times" : 0, "__v" : 0 }
+{ "cname" : "こんにちは", "random" : 32, "_id" : { "$oid" : "5557584294b4c0191a19638f" }, "CourseTimme" : [], "time_each" : [], "signup_times" : 0, "__v" : 0 }
