@@ -1197,3 +1197,4 @@
 { "student" : "20125272", "course" : { "$oid" : "551a578b5bd9294f25803528" }, "_id" : { "$oid" : "555aacab9f00b77e7582602d" }, "signup" : [], "__v" : 0 }
 { "student" : "20141415", "course" : { "$oid" : "5539a862fd49d35163710ee8" }, "_id" : { "$oid" : "555ab4a59f00b77e75826038" }, "signup" : [], "__v" : 0 }
 { "__v" : 0, "_id" : { "$oid" : "5569a4f53cd28d026673e1ad" }, "course" : { "$oid" : "55156cc0af0a674d70141bcf" }, "signup" : [ { "_id" : "d3711b7c1f31", "time" : 5 }, { "_id" : "833aab82ee0b", "time" : 6 } ], "student" : "20122516" }
+{ "__v" : 0, "_id" : { "$oid" : "557794aa3cd28d026673e1e6" }, "course" : { "$oid" : "55156cacaf0a674d70141bce" }, "signup" : [ { "time" : 2, "_id" : "4cea6f6e969a" }, { "time" : 3, "_id" : "3f7ea491b7f2" } ], "student" : "20134311" }
